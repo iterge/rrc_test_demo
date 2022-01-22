@@ -1,1 +1,0 @@
-1642585665802|36|statement|connection 1|url jdbc:mysql://localhost:3306/pricing?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false&useSSL=false&serverTimezone=Asia/Shanghai|select * from pricing_log|select * from pricing_log
