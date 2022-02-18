@@ -19,6 +19,7 @@
         <mybatis-plus.version>3.5.0</mybatis-plus.version>
         <p6spy.version>3.9.1</p6spy.version>
         <swagger.version>3.0.0</swagger.version>
+        <xxl.version>2.3.0</xxl.version>
     </properties>
     <dependencies>
         <dependency>
@@ -103,6 +104,13 @@
             <groupId>io.springfox</groupId>
             <artifactId>springfox-boot-starter</artifactId>
             <version>${swagger.version}</version>
+        </dependency>
+
+        <!-- xxl-job-core -->
+        <dependency>
+            <groupId>com.xuxueli</groupId>
+            <artifactId>xxl-job-core</artifactId>
+            <version>${xxl.version}</version>
         </dependency>
     </dependencies>
 
