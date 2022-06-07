@@ -3,16 +3,3 @@ server:
 spring:
   profiles:
     active: test
-
-xxl:
-  job:
-    admin:
-      addresses: http://127.0.0.1:8082/xxl-job-admin
-    accessToken:
-    executor:
-      appname: xxl-job-executor-demo
-      address:
-      ip:
-      port: 9998
-      logpath: /Users/liuph/dev/space/log/xxl-job/jobhandler-demo
-      logretentiondays: 30
