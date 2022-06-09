@@ -1,6 +1,6 @@
 # 练习专用springboot项目
 
-###springboot版本
+### springboot版本
 * v2.6.2
 ### 集成组件
 集成功能如下:
