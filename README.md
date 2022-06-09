@@ -19,3 +19,4 @@
 * kafka
 * redis
 * Eureka
+* ES

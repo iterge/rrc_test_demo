@@ -19,8 +19,13 @@ spring:
     pathmatch:
       matching-strategy: ant_path_matcher
 
+  #ES
+  elasticsearch:
+    uris: http://localhost:9200/
+
 #swagger-ui界面开关 http://localhost:8090/swagger-ui/index.html
 springfox:
   documentation:
     swagger-ui:
       enabled: true
+
