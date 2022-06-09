@@ -22,6 +22,7 @@ spring:
   #ES
   elasticsearch:
     uris: http://localhost:9200/
+
 #swagger-ui界面开关 http://localhost:8090/swagger-ui/index.html
 springfox:
   documentation:
